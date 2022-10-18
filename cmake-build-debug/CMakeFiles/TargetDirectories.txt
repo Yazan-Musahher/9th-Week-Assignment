@@ -1,0 +1,3 @@
+C:/Users/signe/OneDrive/Dokumenter/UIA/UIA semester 3/IKT203/IKT203 kode/9th-Week-Assignment/cmake-build-debug/CMakeFiles/9th_Week_Assignment.dir
+C:/Users/signe/OneDrive/Dokumenter/UIA/UIA semester 3/IKT203/IKT203 kode/9th-Week-Assignment/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/signe/OneDrive/Dokumenter/UIA/UIA semester 3/IKT203/IKT203 kode/9th-Week-Assignment/cmake-build-debug/CMakeFiles/rebuild_cache.dir
