@@ -17,6 +17,19 @@ Node* createNewNode(int data) {
 
 int main () {
 
+    Node* root = createNewNode(1);
+
+    root->left = createNewNode(2);
+
+    root->right = createNewNode(3);
+
+    //new one
+
+    root->left->left = createNewNode(4);
+    root->left->right = createNewNode(5);
+    root->right->left = createNewNode(5);
+
+
 
 
 
