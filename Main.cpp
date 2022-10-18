@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+
 struct node
 {
     char name[30];
@@ -9,6 +10,7 @@ struct node
     struct node *left, *right;
     bool isLast;
 };
+
 
 
 
