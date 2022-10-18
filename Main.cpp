@@ -1,5 +1,5 @@
 #include <iostream>
-
+using namespace std;
 
 struct node
 {
@@ -7,6 +7,7 @@ struct node
     int number[15];
     char email[40];
     struct node *left, *right;
+    bool isLast;
 };
 
 
