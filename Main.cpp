@@ -1,4 +1,5 @@
 #include <iostream>
+using namespace std;
 
 
 struct node
@@ -8,6 +9,8 @@ struct node
     char email[40];
     struct node *left, *right;
 };
+afijadfad
+
 
 
 
