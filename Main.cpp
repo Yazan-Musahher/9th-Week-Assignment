@@ -12,8 +12,6 @@ struct node
 
 
 
-}
-
 int main () {
 
 
